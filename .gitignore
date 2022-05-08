@@ -3,4 +3,3 @@ zig-out
 zig-cache
 a.out
 *.ppm
-lib/ezdxt

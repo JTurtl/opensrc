@@ -1,0 +1,3 @@
+[submodule "lib/ezdxt"]
+	path = lib/ezdxt
+	url = https://github.com/JTurtl/ezdxt.git
