@@ -4,12 +4,19 @@
 Check out the `examples/` directory!
 ## As a static library:
 ### Build requirements
-1. [Zig Compiler](https://ziglang.org)
-2. Brain (optional)
+1. Git
+2. [Zig Compiler](https://ziglang.org)
+3. Brain (optional)
+
+Clone this repository (recursively, to include dependencies)
+```sh
+git clone https://github.com/JTurtl/opensrc --recurse
+cd opensrc
+```
 
 Build the project:
 ```sh
-$ zig build -Drelease-fast
+zig build -Drelease-fast
 ```
 The result is `zig-out/lib/libopensrc.a` (or `opensrc.lib`).
 
