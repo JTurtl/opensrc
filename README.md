@@ -69,17 +69,17 @@ If you're not familiar with the Zig build system, check out
 - **More language bindings** (in this repo, or new ones?)
 ## Maybe:
 - Stored in basic KeyValues format, might be redundant:
-- - [**VMF**](https://developer.valvesoftware.com/wiki/Valve_Map_Format)
+  - [**VMF**](https://developer.valvesoftware.com/wiki/Valve_Map_Format)
 (uncompiled map, used by the Hammer editor)
-- - [**VMT**](https://developer.valvesoftware.com/wiki/Material)
+  - [**VMT**](https://developer.valvesoftware.com/wiki/Material)
 (material/texture descriptor)
 - Nobody cares:
-- - [**GCF**](https://developer.valvesoftware.com/wiki/GCF)
+  - [**GCF**](https://developer.valvesoftware.com/wiki/GCF)
 (VPK predecessor, used by literally no one since 2008)
-- - [**VPC Scripts**](https://developer.valvesoftware.com/wiki/Valve_Project_Creator)
+  - [**VPC Scripts**](https://developer.valvesoftware.com/wiki/Valve_Project_Creator)
 (needlessly complex proprietary build system)
 - Possibly out-of-scope:
-- - **Everything Source2 related** (separate project?)
+  - **Everything Source2 related** (separate project?)
 # Name of the Library
 ## How does one pronounce 'OpenSrc'?
 ### "Open sers" [ˈoʊ.pən sɜ(ɹ)s]
